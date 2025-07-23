@@ -1,0 +1,36 @@
+[
+  { "prompt": "Write a letter from your future self 10 years ahead, giving you advice about life, success, and regrets.", "category": "Writing" },
+  { "prompt": "Describe a city where the laws of gravity randomly shift every day. How do the people adapt?", "category": "Writing" },
+  { "prompt": "Invent a myth or legend about how the stars were created, told from the perspective of an ancient civilization.", "category": "Writing" },
+  { "prompt": "You discover a notebook that can predict the future—but only when you're asleep. Write a short story based on this concept.", "category": "Writing" },
+  { "prompt": "Describe the events of a day that repeats endlessly for one person—but no one else notices.", "category": "Writing" },
+  { "prompt": "Imagine you were born with the ability to taste emotions. Write a diary entry about your strangest experience.", "category": "Writing" },
+
+  { "prompt": "Draw a creature that lives on a floating island powered by moonlight. What does its environment look like?", "category": "Art" },
+  { "prompt": "Create a concept sketch of a machine that turns dreams into paintings.", "category": "Art" },
+  { "prompt": "Design a futuristic fashion style for humans living on Mars in 2150.", "category": "Art" },
+  { "prompt": "Illustrate a café where animals serve food and the customers are humans dressed as animals.", "category": "Art" },
+  { "prompt": "Draw a landscape that is a mix of a jungle and a cyberpunk city. What colors dominate the scenery?", "category": "Art" },
+  { "prompt": "Create a comic strip that tells a story in 3 silent frames using only facial expressions.", "category": "Art" },
+
+  { "prompt": "Write a Python script that simulates a conversation with a sarcastic AI assistant.", "category": "Coding" },
+  { "prompt": "Build a to-do app that stores tasks in a local JSON file and lets you filter by priority.", "category": "Coding" },
+  { "prompt": "Write a function in any language that translates regular sentences into Shakespearean English.", "category": "Coding" },
+  { "prompt": "Create a random story generator that combines a character, a setting, and a conflict from pre-defined lists.", "category": "Coding" },
+  { "prompt": "Build a CLI-based budget tracker that allows adding, viewing, and deleting expenses with categories.", "category": "Coding" },
+  { "prompt": "Design a web scraper that collects book titles, ratings, and prices from an online bookstore and saves to CSV.", "category": "Coding" },
+
+  { "prompt": "If you could master one skill instantly, what would it be and how would it change your life?", "category": "Conversation" },
+  { "prompt": "What’s one childhood memory that shaped who you are today?", "category": "Conversation" },
+  { "prompt": "If you were to host a podcast, what would it be about and who would be your first guest?", "category": "Conversation" },
+  { "prompt": "What’s a fear you overcame, and how did you do it?", "category": "Conversation" },
+  { "prompt": "If you could swap lives with a fictional character for a week, who would it be and why?", "category": "Conversation" },
+  { "prompt": "If time and money weren't an issue, what would your ideal day look like?", "category": "Conversation" },
+
+  { "prompt": "Build a web app that allows users to track their mood daily using emojis and gives monthly insights using graphs.", "category": "Project Ideas" },
+  { "prompt": "Create a mobile app that helps users find eco-friendly alternatives to everyday products.", "category": "Project Ideas" },
+  { "prompt": "Design a system that detects sarcasm in text using machine learning and sentiment analysis.", "category": "Project Ideas" },
+  { "prompt": "Develop a website that offers random writing or art prompts daily, with community submissions and upvoting.", "category": "Project Ideas" },
+  { "prompt": "Create an AI-based voice assistant for visually impaired users that helps with navigation indoors.", "category": "Project Ideas" },
+  { "prompt": "Build a resume analysis tool that scores resumes based on keyword relevance to a given job description.", "category": "Project Ideas" }
+]
